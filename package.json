@@ -1,0 +1,17 @@
+{
+  "name": "dale-service",
+  "version": "1.0.0",
+  "description": "Service module for the DaLe application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-routes": "^1.0.1",
+    "nodemon": "^2.0.9"
+  }
+}
